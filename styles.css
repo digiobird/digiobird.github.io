@@ -1,0 +1,883 @@
+.www-digiobird-com .logo-digiobird-1 {
+    background: url('../assets/images/logo_digiobird_1.png') 50% / cover no-repeat;
+    margin-right: 14px;
+    width: 75px;
+    height: 71.1px;
+  }
+  .www-digiobird-com .digiobird {
+    margin: 13px 0 13.1px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 30px;
+    color: #000000;
+  }
+  .www-digiobird-com .logo-branding {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .www-digiobird-com .home {
+    margin: 6px 12px 6px 0;
+    display: inline-block;
+    width: 106px;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 16px;
+    color: #000000;
+  }
+  .www-digiobird-com .about-us {
+    margin: 6px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 16px;
+    color: #000000;
+  }
+  .www-digiobird-com .services {
+    margin: 6px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 16px;
+    color: #000000;
+  }
+  .www-digiobird-com .contact {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+.www-digiobird-com .container-5 {
+  border-radius: 18px;
+  background: linear-gradient(270deg, #93278F, #1B1464);
+  position: relative;
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  padding: 6px 1.3px 6px 0;
+  width: 120px;
+  box-sizing: border-box;
+}
+  .www-digiobird-com .navigation-items {
+    border-radius: 18px;
+    margin: 18px 0 17.1px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 490px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .www-digiobird-com .navigation-bar-1 {
+    box-shadow: 0px 1px 8px 0px rgba(0, 0, 0, 0.25);
+    background: #FFFFFF;
+    position: relative;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 14px 72px 14.9px 100px;
+    width: 100% !important;
+    box-sizing: border-box;
+  }
+  .www-digiobird-com .w-039-n-00338-bp-1381 {
+    /* opacity: 0.06; */
+    position: absolute;
+    /* left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px; */
+    height: 100%;
+  }
+  .www-digiobird-com .grow-your-business-through {
+    position: relative;
+    margin: 0 2px 11.5px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 500;
+    font-size: 40px;
+    color: #000000;
+  }
+  .www-digiobird-com .digital-marketing {
+    position: relative;
+    margin-bottom: 41.4px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 80px;
+    background: linear-gradient(90deg, #1B1464, #93278F);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+  }
+  .www-digiobird-com .growth-1 {
+    background: url('../assets/images/growth_1.png') 50% / cover no-repeat;
+    position: relative;
+    width: 200px;
+    height: 200px;
+  }
+  .www-digiobird-com .page-01 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 161.1px 0 141px 0;
+    width: 100% !important;
+    box-sizing: border-box;
+    background-image: url(../assets/vectors/w_039_n_00338_bp_1381_x2.svg);
+    background-size: cover; /* or contain, depending on your preference */
+    background-position: center; /* Center the background image */
+  }
+  .www-digiobird-com .about-icon {
+    background: url('../assets/images/about_icon.png') 50% / cover no-repeat;
+    margin-bottom: 40px;
+    width: 100px;
+    height: 100px;
+  }
+  
+  .www-digiobird-com .who-are-we {
+    margin-bottom: 39px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 48px;
+    background: linear-gradient(270deg, #FFFFFF, #FFFF00);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+  }
+  .www-digiobird-com .who_are_you_content {
+    text-align: center; /* Center the text horizontally */
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 1.8;
+    color: #FFFFFF;
+    margin: 0 30%; /* Adds more space on the left and right sides */
+}
+
+
+  .www-digiobird-com .page-02 {
+    background: #1B1464;
+    position: relative;
+    margin-bottom: 139px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 168px 0 167px 0;
+    width: 100% !important;
+    box-sizing: border-box;
+  }
+  .www-digiobird-com .services-1 {
+    margin: 0 0 65px 1px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 48px;
+    background: linear-gradient(90deg, #1B1464, #93278F);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+  }
+  .www-digiobird-com .creative-1 {
+    background: url('../assets/images/creative_1.png') 50% / cover no-repeat;
+    margin: 0 0 24px 2px;
+    width: 205px;
+    height: 205px;
+  }
+  .www-digiobird-com .social-media-marketing {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 30px;
+    color: #000000;
+  }
+  .www-digiobird-com .container-9 {
+    box-shadow: 0px 6px 6px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    border: 1px solid #000000;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 41px 0 40px 0;
+    width: 350px;
+    box-sizing: border-box;
+  }
+  .www-digiobird-com .sway-1 {
+    background: url('../assets/images/sway_1.png') 50% / cover no-repeat;
+    margin: 0 7px 46px 0;
+    width: 160px;
+    height: 160px;
+  }
+  .www-digiobird-com .influencer-marketing {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 30px;
+    color: #000000;
+  }
+  .www-digiobird-com .container-3 {
+    box-shadow: 0px 6px 6px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    border: 1px solid #000000;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 64px 0 40px 0;
+    width: 340px;
+    box-sizing: border-box;
+  }
+  .www-digiobird-com .image-1 {
+    background: url('../assets/images/image_1.png') 50% / cover no-repeat;
+    margin-bottom: 39px;
+    width: 175px;
+    height: 175px;
+  }
+  .www-digiobird-com .website-design {
+    margin-left: 14px;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 30px;
+    color: #000000;
+  }
+  .www-digiobird-com .container-8 {
+    box-shadow: 0px 6px 6px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    border: 1px solid #000000;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 56px 0 40px 0;
+    width: 340px;
+    box-sizing: border-box;
+  }
+  .www-digiobird-com .container-6 {
+    display: flex;
+    flex-direction: row;
+    column-gap: 54px;
+    width: 1138px;
+    box-sizing: border-box;
+  }
+  .www-digiobird-com .page-03 {
+    margin-bottom: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 90vw; /* 90% of the viewport width */
+    /* max-width: 1138px; */
+    box-sizing: border-box;
+}
+@media screen and (max-width: 768px) {
+  .www-digiobird-com .page-03 {
+      width: 100%; /* Full width for smaller screens */
+  }
+}
+
+  .www-digiobird-com .social-media-marketing-1 {
+    margin-bottom: 39px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 48px;
+    background: linear-gradient(90deg, #1B1464, #93278F);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+  }
+  .www-digiobird-com .text_div_content {
+    margin-bottom: 20px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 1.8;
+    color: #000000;
+  }
+  .www-digiobird-com .content-creation {
+    margin-bottom: 20px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 1.8;
+    color: #000000;
+  }
+  .www-digiobird-com .post-designs {
+    margin-bottom: 20px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 1.8;
+    color: #000000;
+  }
+  .www-digiobird-com .reels-video-creation {
+    margin-bottom: 20px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 1.8;
+    color: #000000;
+  }
+  .www-digiobird-com .targeted-ad-campaigns {
+    margin-bottom: 20px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 1.8;
+    color: #000000;
+  }
+  .www-digiobird-com .insight-sharing {
+    margin-bottom: 20px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 1.8;
+    color: #000000;
+  }
+  .www-digiobird-com .copyright-monetization-support {
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 1.8;
+    color: #000000;
+  }
+  .www-digiobird-com .container-10 {
+    margin: 158px 115.5px 157px 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .www-digiobird-com .marketing-cuate-1 {
+    width: 420px;
+    height: 420px;
+  }
+  .www-digiobird-com .container-4 {
+    background: rgba(22, 0, 255, 0.05);
+    position: relative;
+    display: flex;
+    padding: 195px 0;
+    width: 640px;
+    height: 810px;
+    box-sizing: border-box;
+  }
+  .www-digiobird-com .page-04 {
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .www-digiobird-com .partnership-pana-1 {
+    width: 480px;
+    height: 320px;
+  }
+  .www-digiobird-com .container-11 {
+    background: rgba(22, 0, 255, 0.05);
+    position: relative;
+    margin-right: 160px;
+    display: flex;
+    padding: 245px 0;
+    width: 640px;
+    height: 810px;
+    box-sizing: border-box;
+  }
+  .www-digiobird-com .influencer-marketing-1 {
+    margin-bottom: 39px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 48px;
+    background: linear-gradient(90deg, #1B1464, #93278F);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+  }
+  .www-digiobird-com .brand-promotion-from-effective-social-media-influencers {
+    margin-bottom: 20px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 1.8;
+    color: #000000;
+  }
+  .www-digiobird-com .social-media-collaboration-feature-usage-to-get-potential-customers-from-their-follower-base {
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 1.8;
+    color: #000000;
+  }
+  .www-digiobird-com .container {
+    margin: 248px 0 247px 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .www-digiobird-com .page-05 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start; /* Align items at the start of the cross axis */
+    width: 100%; /* Set width to 100% */
+    box-sizing: border-box;
+}
+
+/* Assuming you want both child divs to take up equal width */
+.www-digiobird-com .page-05 > * {
+    flex: 1; /* Make both child divs take up equal width */
+    margin: 0 10px; /* Add spacing between the child divs */
+}
+
+/* Adjust margins and padding for specific elements if needed */
+
+  .www-digiobird-com .website-designing {
+    margin-bottom: 39px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 48px;
+    background: linear-gradient(90deg, #1B1464, #93278F);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+  }
+  .www-digiobird-com .purchasing-domain-com-in-co-etc {
+    margin: 0 5.5px 20px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 1.8;
+    color: #000000;
+  }
+  .www-digiobird-com .creating-design-layout {
+    margin-bottom: 20px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 1.8;
+    color: #000000;
+  }
+  .www-digiobird-com .paid-web-hosting {
+    margin-bottom: 20px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 1.8;
+    color: #000000;
+  }
+  .www-digiobird-com .setting-up-wordpress {
+    margin-bottom: 20px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 1.8;
+    color: #000000;
+  }
+  .www-digiobird-com .adding-site-to-wordpress {
+    margin-bottom: 20px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 1.8;
+    color: #000000;
+  }
+  .www-digiobird-com .publishing-website {
+    margin-bottom: 20px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 1.8;
+    color: #000000;
+  }
+  .www-digiobird-com .seosearch-engine-optimization {
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 1.8;
+    color: #000000;
+  }
+  .www-digiobird-com .container-2 {
+    margin: 158px 222.5px 157px 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .www-digiobird-com .microsites-pana-1 {
+    width: 453.3px;
+    height: 320px;
+  }
+  .www-digiobird-com .container-7 {
+    background: rgba(22, 0, 255, 0.05);
+    position: relative;
+    display: flex;
+    padding: 245px 0.7px 245px 0;
+    width: 640px;
+    height: 810px;
+    box-sizing: border-box;
+  }
+  .www-digiobird-com .page-06 {
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .www-digiobird-com .image-2 {
+    background: url('../assets/images/image_2.png') 50% / cover no-repeat;
+    margin: 0 12.1px 40px 0;
+    width: 100px;
+    height: 100px;
+  }
+  .www-digiobird-com .contact-us {
+    margin: 0 12.1px 41px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 48px;
+    background: linear-gradient(90deg, #FFFF00, #FFFFFF);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+  }
+  .www-digiobird-com .phone-1 {
+    margin: 9px 20px 9.1px 0;
+    width: 25px;
+    height: 24.9px;
+  }
+  .www-digiobird-com .container {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 24px;
+    letter-spacing: 1.2px;
+    line-height: 1.8;
+    color: #FFFFFF;
+  }
+  .www-digiobird-com .phone {
+    margin: 0 12.8px 19px 0;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .www-digiobird-com .mail-1 {
+    margin: 11px 20px 10.2px 0;
+    width: 25px;
+    height: 18.8px;
+  }
+  .www-digiobird-com .digiobirdgmail-com {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 22px;
+    letter-spacing: 1.1px;
+    line-height: 1.8;
+    color: #FFFFFF;
+  }
+  .www-digiobird-com .mail {
+    margin: 0 13.5px 20px 0;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .www-digiobird-com .website-1 {
+    margin: 8px 20px 7px 0;
+    width: 25px;
+    height: 25px;
+  }
+  .www-digiobird-com .digiobird-com {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 22px;
+    letter-spacing: 2.2px;
+    line-height: 1.8;
+    color: #FFFFFF;
+  }
+  .www-digiobird-com .website {
+    margin: 0 13.7px 24px 0;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .www-digiobird-com .container-1 {
+    margin: 4px 19.8px 45.5px 0;
+    width: 16.1px;
+    height: 20.5px;
+  }
+  .www-digiobird-com .ground-floor-laxmi-nivas-near-dharmanath-circle-shivabasava-nagar-belagavi-590010 {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 1.6;
+    color: #FFFFFF;
+  }
+  .www-digiobird-com .location {
+    margin-bottom: 57px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .www-digiobird-com .facebook-flogo-2021 {
+    background: url('../assets/images/facebook_flogo_2021.png') 50% / cover no-repeat;
+    width: 30px;
+    height: 30px;
+  }
+  .www-digiobird-com .instagram-png-logo {
+    background: url('../assets/images/instagram_png_logo.png') 50% / cover no-repeat;
+    width: 30px;
+    height: 30px;
+  }
+  .www-digiobird-com .twitter-xnew-logo-xrounded-icon-256078 {
+    background: url('../assets/images/twitter_xnew_logo_xrounded_icon_256078.png') 50% / cover no-repeat;
+    width: 30px;
+    height: 30px;
+  }
+  .www-digiobird-com .you-tube-social-red-circle-2017 {
+    background: url('../assets/images/you_tube_social_red_circle_2017.png') 50% / cover no-repeat;
+    width: 30px;
+    height: 30px;
+  }
+  .www-digiobird-com .linked-in-icon-circle {
+    background: url('../assets/images/linked_in_icon_circle.png') 50% / cover no-repeat;
+    width: 30px;
+    height: 30px;
+  }
+  .www-digiobird-com .social-media-icons {
+    margin: 0 11.3px 49px 0;
+    display: flex;
+    flex-direction: row;
+    column-gap: 13.2px;
+    width: 202.8px;
+    box-sizing: border-box;
+  }
+  .www-digiobird-com .digiobird-2024-all-rights-reserved {
+    margin-right: 13.1px;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.5;
+    color: rgba(255, 255, 255, 0.25);
+  }
+  .www-digiobird-com .page-07 {
+    background: #1B1464;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 111px 0 40px 0;
+    width: 100% !important;
+    box-sizing: border-box;
+  }
+  .www-digiobird-com {
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: 100% !important;
+    box-sizing: border-box;
+  }
+  
+
+  .contact_us{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .contact_us_content {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px; /* Adjust spacing between each contact detail */
+  }
+  
+  .icon {
+    width: 24px; /* Adjust icon size as needed */
+    margin-right: 10px; /* Adjust spacing between icon and text */
+  }
+  
+  .contact_us_content a {
+    padding-top: 10px;
+    font-size: 24px !important; /* Adjust the font size as needed */
+    color: white !important; /* Adjust the color as needed */
+    font-family: "Calibri";
+    text-decoration: none;
+    font-weight: lighter; /* Apply lighter font weight */
+  }
+
+  .footer_font_size {
+    padding-top: 10px;
+    font-size: 16px !important;
+    color: grey !important;
+    text-decoration: none;
+    font-weight: lighter; /* Apply lighter font weight */
+    font-family: "Calibri";
+  }
+
+  .footer_div {
+    background: #1B1464;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5% 0 167px 0;
+    width: 100% !important;
+    box-sizing: border-box;
+  }
+  .mt-25 {
+    margin-top: 25px;
+}
+.footer-social-icons ul li {
+  display: inline-block;
+  /* background: white; */
+  border-radius: 50%;
+  /* color: #fff; */
+  margin-right: 10px;
+  margin-bottom: 5px;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+}
+.footer-social-icons ul li a {
+  display: block;
+  font-size: 15px;
+  color: #fff;
+  width: 25px;
+  height: 25px;
+  padding: 11px;
+  padding-top: 8px;
+}
+.footer-social-icons ul li:hover {
+  /* background: yellow; */
+}
+
+.cursor-icon {
+  cursor: default;
+}
+
+.social-medio-icon-size {
+  /* Set width and height */
+  width: 36px;
+  height: 36px;
+  vertical-align: middle;
+
+  /* Optionally, add other styling properties */
+  /* e.g., margin, padding, background-color, border-radius */
+}
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* Split into two columns of equal width */
+}
+
+.left, .right {
+  /* Optionally add styles for both columns */
+}
+.container {
+  display: flex;
+}
+
+.left {
+  flex: 1; /* Take up 50% of the container width */
+  /* background-color: #f0f0f0;  */
+}
+
+.right {
+  flex: 1; /* Take up 50% of the container width */
+  background-color: #e0e0e0; /* Example background color */
+}
+
+.scaled-image {
+  width: 100%; /* Set the desired width */
+  height: auto; /* Automatically calculate the height based on the aspect ratio */
+}
+
+
+/* Your existing CSS styles */
+
+@media screen and (max-width: 768px) {
+  /* Adjustments for smaller screens */
+  .www-digiobird-com .container-6 {
+    flex-direction: column; /* Stack elements vertically on smaller screens */
+    column-gap: 0; /* Remove the gap between columns */
+    width: 100%; /* Make the container full width */
+  }
+}
+
+@media screen and (max-width: 600px) {
+  /* Adjustments for even smaller screens */
+  .www-digiobird-com .container-6 {
+    margin: 0 auto; /* Center the container horizontally */
+  }
+}
+
+/* Add any additional media queries and adjustments as needed */
