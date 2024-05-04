@@ -244,3 +244,17 @@
     text-decoration: none;
     font-weight: lighter;
 }
+
+@media (max-width: 768px) {
+    .contact-button {
+        display: block;
+        text-align: center; /* Optional: Align button text center */
+        margin-top: 10px; /* Optional: Add some spacing */
+    }
+    .contact-button .btn {
+        display: inline-block;
+    }
+    .collapse.navbar-collapse {
+        display: none; /* Hide the regular navbar menu */
+    }
+}
