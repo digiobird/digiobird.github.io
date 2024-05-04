@@ -329,45 +329,21 @@
     function redirectToSocialMedia() {
       document.getElementById('SocialMedia').scrollIntoView();
     }
-
-
-        // JavaScript to move the contact button into the navbar on small devices
-window.addEventListener('DOMContentLoaded', function () {
-    moveContactButton();
-});
-
-window.addEventListener('resize', function () {
-    moveContactButton();
-});
-
-function moveContactButton() {
-    var navbar = document.querySelector('.navbar-collapse');
-    var button = document.querySelector('.button');
-
-    if (window.innerWidth <= 768) { // Adjust this value according to your breakpoint
-        navbar.appendChild(button);
-    } else {
-        // Move button back to its original position if the window size is larger
-        document.querySelector('.button-container').appendChild(button);
-    }
-}
-
   </script>
 
     <script>
         document.addEventListener('DOMContentLoaded', function () {
-            var navbarCollapse = document.querySelector('.navbar-collapse');
-            var contactLink = document.querySelector('#nav .nav-item');
-        
-            navbarCollapse.addEventListener('show.bs.collapse', function () {
-                contactLink.style.display = 'block';
-            });
-        
-            navbarCollapse.addEventListener('hide.bs.collapse', function () {
-                contactLink.style.display = 'none';
-            });
-        });
+    var navbarCollapse = document.querySelector('.navbar-collapse');
+    var contactLink = document.querySelector('#nav .nav-item');
 
+    navbarCollapse.addEventListener('show.bs.collapse', function () {
+        contactLink.style.display = 'block';
+    });
+
+    navbarCollapse.addEventListener('hide.bs.collapse', function () {
+        contactLink.style.display = 'none';
+    });
+});
     </script>
 </body>
 
