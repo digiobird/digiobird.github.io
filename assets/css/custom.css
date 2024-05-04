@@ -1,3 +1,9 @@
+@media (max-width: 768px) {
+    .navbar-collapse .contact_header_menu_btn {
+        display: block !important; /* Override display none for small screens */
+    }
+}
+
 .digital-marketing {
     position: relative;
     margin-bottom: 41.4px;
