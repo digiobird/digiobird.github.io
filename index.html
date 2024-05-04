@@ -69,12 +69,11 @@
                                     <li class="nav-item">
                                         <a href="#services" class="page-scroll" aria-label="Toggle navigation">Services</a>
                                     </li>
+                                    <li class="nav-item contact-button">
+                                        <a href="#contact" class="btn">Contact</a>
+                                    </li>
                                 </ul>
-                                <!-- This is where the Contact button will be moved -->
                             </div> <!-- navbar collapse -->
-                            <div class="button">
-                                <a href="#contact" class="btn">Contact</a>
-                            </div>
                         </nav>
                         <!-- End Navbar -->
                     </div>
@@ -326,28 +325,6 @@
     function redirectToSocialMedia() {
       document.getElementById('SocialMedia').scrollIntoView();
     }
-
-
-        // JavaScript to move the contact button into the navbar on small devices
-window.addEventListener('DOMContentLoaded', function () {
-    moveContactButton();
-});
-
-window.addEventListener('resize', function () {
-    moveContactButton();
-});
-
-function moveContactButton() {
-    var navbar = document.querySelector('.navbar-collapse');
-    var button = document.querySelector('.button');
-
-    if (window.innerWidth <= 768) { // Adjust this value according to your breakpoint
-        navbar.appendChild(button);
-    } else {
-        // Move button back to its original position if the window size is larger
-        document.querySelector('.button-container').appendChild(button);
-    }
-}
 
   </script>
 </body>
