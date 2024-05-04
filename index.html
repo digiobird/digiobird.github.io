@@ -353,6 +353,22 @@ function moveContactButton() {
 }
 
   </script>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var navbarCollapse = document.querySelector('.navbar-collapse');
+            var contactLink = document.querySelector('#nav .nav-item');
+        
+            navbarCollapse.addEventListener('show.bs.collapse', function () {
+                contactLink.style.display = 'block';
+            });
+        
+            navbarCollapse.addEventListener('hide.bs.collapse', function () {
+                contactLink.style.display = 'none';
+            });
+        });
+
+    </script>
 </body>
 
 </html>
