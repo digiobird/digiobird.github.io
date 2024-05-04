@@ -1,0 +1,245 @@
+.digital-marketing {
+    position: relative;
+    margin-bottom: 41.4px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 80px;
+    background: linear-gradient(90deg, #1B1464, #93278F);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+}
+.page-01 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* padding: 161.1px 0 141px 0; */
+    width: 100% !important;
+    box-sizing: border-box;
+    background-image: url(../../assets/vectors/w_039_n_00338_bp_1381_x2.svg);
+    background-size: cover;
+    background-position: center;
+}
+
+.growth-1 {
+    background: url(../../assets/images/growth_1.png) 50% / cover no-repeat;
+    position: relative;
+    width: 200px;
+    height: 200px;
+}
+.digiobird {
+    margin: 13px 0 13.1px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 30px;
+    color: #000000;
+}
+.logo-digiobird-1 {
+    background: url(../../assets/images/logo_digiobird_1.png) 50% / cover no-repeat;
+    margin-right: 14px;
+    width: 75px;
+    height: 71.1px;
+}
+
+.page-02 {
+    background: #1B1464;
+    position: relative;
+    margin-bottom: -60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 65px 0 40px 0;
+    width: 100% !important;
+    box-sizing: border-box;
+}
+
+.about-icon {
+    background: url(../../assets/images/about_icon.png) 50% / cover no-repeat;
+    margin-bottom: 40px;
+    width: 100px;
+    height: 100px;
+}
+.who-are-we {
+    margin-bottom: 39px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 48px;
+    background: linear-gradient(270deg, #FFFFFF, #FFFF00);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+}
+
+.who_are_you_content {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 1.8;
+    color: #FFFFFF;
+    margin: 0 20%;
+}
+
+
+
+ .services-1 {
+    margin: 0 0 65px 1px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 48px;
+    background: linear-gradient(90deg, #1B1464, #93278F);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+}
+
+.container-9 {
+    box-shadow: 0px 6px 6px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    border: 1px solid #000000;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 41px 0 40px 0;
+    /* width: 350px; */
+    box-sizing: border-box;
+}
+
+.creative-1 {
+    background: url(../../assets/images/creative_1.png) 50% / cover no-repeat;
+    margin: 0 0 24px 2px;
+    width: 205px;
+    height: 205px;
+}
+
+.social-media-marketing {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 30px;
+    color: #000000;
+}
+
+.container-3 {
+    box-shadow: 0px 6px 6px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    border: 1px solid #000000;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 64px 0 40px 0;
+    /* width: 340px; */
+    box-sizing: border-box;
+}
+
+.sway-1 {
+    background: url(../../assets/images/sway_1.png) 50% / cover no-repeat;
+    margin: 0 7px 46px 0;
+    width: 160px;
+    height: 160px;
+}
+
+.influencer-marketing {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 30px;
+    color: #000000;
+}
+
+.container-8 {
+    box-shadow: 0px 6px 6px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    border: 1px solid #000000;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 56px 0 40px 0;
+    /* width: 340px; */
+    box-sizing: border-box;
+}
+
+.image-1 {
+    background: url(../../assets/images/image_1.png) 50% / cover no-repeat;
+    margin-bottom: 39px;
+    width: 175px;
+    height: 175px;
+}
+
+.website-design {
+    margin-left: 14px;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 30px;
+    color: #000000;
+}
+
+.text_div_content {
+    margin-bottom: 20px;
+    /* display: inline-block; */
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 1.8;
+    color: #000000;
+}
+
+.image-2 {
+    background: url(../../assets/images/image_2.png) 50% / cover no-repeat;
+    margin: 0 12.1px 40px 0;
+    width: 100px;
+    height: 100px;
+}
+
+.contact_us_content {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.icon {
+    width: 24px;
+    margin-right: 10px;
+}
+
+.footer_div {
+    background: #1B1464;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5% 0 30px 0;
+    width: 100% !important;
+    box-sizing: border-box;
+}
+
+.contact_us_content a {
+    padding-top: 10px;
+    font-size: 24px !important;
+    color: white !important;
+    font-family: "Calibri";
+    text-decoration: none;
+    font-weight: lighter;
+}
