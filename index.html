@@ -1,163 +1,315 @@
-<!doctype html>
-<html lang="en">
+<!DOCTYPE html>
+<html class="no-js" lang="zxx">
 <head>
-  <meta charset="UTF-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" />
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <title>www.digiobird.com</title>
+    <meta name="description" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.svg" />
 
+    <!-- ========================= CSS here ========================= -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="assets/css/LineIcons.2.0.css" />
+    <link rel="stylesheet" href="assets/css/animate.css" />
+    <link rel="stylesheet" href="assets/css/tiny-slider.css" />
+    <link rel="stylesheet" href="assets/css/glightbox.min.css" />
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <link rel="stylesheet" href="assets/css/custom.css" />
 
-  <title>www.digiobird.com</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@&display=swap" rel="stylesheet">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css" />
-  
 </head>
+
 <body>
-  <div class="www-digiobird-com">
-    <div class="navigation-bar-1">
-      <div class="logo-branding">
-        <div class="logo-digiobird-1"></div>
-        <div class="digiobird">Digiobird</div>
-      </div>
-      <div class="navigation-items">
-        <div class="home cursor-icon" onclick="redirectTohome(); return false;" >Home</div>
-        <div class="home cursor-icon" onclick="redirectToabout_us(); return false;" >About us</div>
-        <div class="home cursor-icon" onclick="redirectToservices(); return false;" >Services</div>
-        <div class="container-5 cursor-icon">
-          <span class="contact" onclick="redirectToContact(); return false;" >Contact</span>
-        </div>
-      </div>
-    </div>
-    <div class="page-01" id="home">
-      <!-- <img class="w-039-n-00338-bp-1381" src="../assets/vectors/w_039_n_00338_bp_1381_x2.svg" /> -->
-      <div class="grow-your-business-through">Grow Your Business through</div>
-      <div class="digital-marketing">Digital Marketing</div>
-      <div class="growth-1"></div>
-    </div>
-    <!-- Who Are We? -->
-    <div class="page-02" id="about_us">
-      <div class="about-icon"></div>
-      <div class="who-are-we">Who Are We?</div>
-      <span class="who_are_you_content">
-        We are dedicated to driving your business forward in the digital era. Our comprehensive digital marketing services helps you to elevate your brand, expand your reach and maximize your online presence. Whether you’re a startup looking to establish your identity or an established business aiming to scale, we are here to help you achieve your goals.
-      </span>
-    </div>
-    <!-- Serevices -->
-    <div class="page-03" id="services">
-      <div class="services-1">Services</div>
-      <div class="container-6">
-        <div class="container-9">
-          <div class="creative-1"></div>
-          <span class="social-media-marketing">Social Media<br />Marketing</span>
-        </div>
-        <div class="container-3">
-          <div class="sway-1"></div>
-          <span class="influencer-marketing">Influencer<br />Marketing</span>
-        </div>
-        <div class="container-8">
-          <div class="image-1"></div>
-          <span class="website-design">Website<br />Design</span>
-        </div>
-      </div>
-    </div>
-    <!-- Social Media Marketing -->
-    <div class="page-05 container">
-      <div class="container-10 left">
-        <div class="social-media-marketing-1">Social Media Marketing</div>
-        <div class="text_div_content">Accout / page profile setup</div>
-        <div class="text_div_content">Content creation</div>
-        <div class="text_div_content">Post designs</div>
-        <div class="text_div_content">Reels / video creation</div>
-        <div class="text_div_content">Targeted Ad-campaigns</div>
-        <div class="text_div_content">Insight sharing</div>
-        <span class="text_div_content">Copyright monetization support</span>
-      </div>
-      <div class="right">
-        <img class="scaled-image" src="../assets/vectors/marketing_cuate_1_x2.svg" /> 
-      </div>
-    </div>
-    <!-- Influencer Marketing -->
-    <div class="page-05 container">
-      <div class="right">
-        <img class="scaled-image" src="../assets/vectors/partnership_pana_1_x2.svg" /> 
-      </div>
-      <div class="container-10 left">
-        <div class="influencer-marketing-1">Influencer Marketing</div>
-        <div class="text_div_content">Finding influencers</div>
-        <div class="text_div_content">Negotiations</div>
-        <div class="text_div_content">Campaign setup</div>
-        <div class="text_div_content">Influencer monitoring</div>
-        <div class="text_div_content">Post management</div>
-        <div class="text_div_content">Reporting & analytics</div>
-        <span class="text_div_content">Collaboration management</span>
-      </div>
-    </div>
+    <!--[if lte IE 9]>
+      <p class="browserupgrade">
+        You are using an <strong>outdated</strong> browser. Please
+        <a href="https://browsehappy.com/">upgrade your browser</a> to improve
+        your experience and security.
+      </p>
+    <![endif]-->
 
-   <!-- Website designing -->
-    <div class="page-05 container">
-      <div class="container-10 left">
-        <div class="social-media-marketing-1">Website designing</div>
-        <div class="text_div_content">Purchasing domain (.com, .in, .co, etc.)</div>
-        <div class="text_div_content">Creating design layout</div>
-        <div class="text_div_content">Paid web hosting</div>
-        <div class="text_div_content">Setting up Wordpress</div>
-        <div class="text_div_content">Adding site to wordpress</div>
-        <div class="text_div_content">Publishing website</div>
-        <span class="text_div_content">S.E.O. (Search Engine Optimization)</span>
-      </div>
-      <div class="right">
-        <img class="scaled-image" src="../assets/vectors/microsites_pana_1_x2.svg" /> 
-      </div>
+    <!-- Preloader -->
+    <div class="preloader">
+        <div class="preloader-inner">
+            <div class="preloader-icon">
+                <span></span>
+                <span></span>
+            </div>
+        </div>
     </div>
+    <!-- /End Preloader -->
 
-    <!-- Contact Us Section -->
-    <div class="footer_div" id="contact_us">
-      <div class="image-2"></div>
-      <div class="who-are-we">Contact us</div>
-      <div class="contact_us_content"><img class='icon' src="../assets/vectors/phone_1_x2.svg" />  <a href="tel:+91 9353335795"> +91 9353335795 </a>  </div>
-      <div class="contact_us_content"><img class='icon' src="../assets/vectors/mail_x2.svg" /> <a href = "mailto:digiobird@gmail.com">digiobird@gmail.com</a> </div>
-      <div class="contact_us_content"> <img class='icon' src="../assets/vectors/website_x2.svg" /> <a href="https://digiobird.com" target="_blank"> digiobird.com </a> </div>
-      <div class="contact_us_content"> <img class='icon' src="../assets/vectors/container_x2.svg" /> <a href="#"> Ground floor, Laxmi nivas, Near Dharmanath circle,<br>Shivabasava nagar, Belagavi 590010 </a></div>
-      
-      <div class="footer-social-icons mt-25">
-        <ul>
-           <li><a href="https://www.facebook.com/profile.php?id=61557967753222&mibextid=JRoKGi" target="_blank"><img class='social-medio-icon-size' src="../assets/images/facebook_flogo_2021.png" /></a></li>
-           <li><a href="https://www.instagram.com/digiobird?igsh=MXJzYnlpNjNna202dQ==" target="_blank"><img class='social-medio-icon-size' src="../assets/images/instagram_png_logo.png" /></a></li>
-           <li><a href="https://www.linkedin.com/company/digiobird/" target="_blank"><img class='social-medio-icon-size' src="../assets/images/linked_in_icon_circle.png" /></a></li>
-           <li><a href="https://x.com/digiobird?t=JuwS1foXfeZCC-vZ0Ga9tg&s=09" target="_blank"><img class='social-medio-icon-size' src="../assets/images/twitter_xnew_logo_xrounded_icon_256078.png" /></a></li>
-           <li><a href="https://api.whatsapp.com/send?phone=9353335795&text=Hello" target="_blank"><img class='social-medio-icon-size' src="../assets/images/pngimg.com - whatsapp_PNG1.png" /></a></li>
-        </ul>
-     </div>
-      <div class="footer_font_size">
-        ©Digiobird 2024 - All Rights Reserved.
-      </div>
-    </div>
-  </div>
+    <!-- Start Header Area -->
+    <header class="header navbar-area">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-12">
+                    <div class="nav-inner">
+                        <!-- Start Navbar -->
+                        <nav class="navbar navbar-expand-lg">
+                            <a class="navbar-brand" href="index.html">
+                                <img src="assets/images/logo_digiobird_1.png" class="logo-digiobird-1" alt="Logo">
+                                <div class="digiobird" data-sider-select-id="a6a6ab57-e2e7-4387-add1-851d8968b3e6">Digiobird</div>
+                            </a>
+                            <button class="navbar-toggler mobile-menu-btn" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                                aria-expanded="false" aria-label="Toggle navigation">
+                                <span class="toggler-icon"></span>
+                                <span class="toggler-icon"></span>
+                                <span class="toggler-icon"></span>
+                            </button>
+                            <div class="collapse navbar-collapse sub-menu-bar" id="navbarSupportedContent">
+                                <ul id="nav" class="navbar-nav ms-auto">
+                                    <li class="nav-item">
+                                        <a href="#home" class="page-scroll active"
+                                            aria-label="Toggle navigation">Home</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="#about_us" class="page-scroll"
+                                            aria-label="Toggle navigation">About</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="#services" class="page-scroll"
+                                            aria-label="Toggle navigation">Services</a>
+                                    </li>
+                                </ul>
+                            </div> <!-- navbar collapse -->
+                            <div class="button add-list-button">
+                                <a href="#contact" class="btn">Contact</a>
+                            </div>
+                        </nav>
+                        <!-- End Navbar -->
+                    </div>
+                </div>
+            </div> <!-- row -->
+        </div> <!-- container -->
+    </header>
+    <!-- End Header Area -->
+
+    <!-- Start Hero Area -->
+    <section id="home" class="hero-area">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-12 col-md-12 col-12">
+                    <div class="hero-content page-01 ">
+                        <h3 class="wow fadeInLeft" data-wow-delay=".4s">Grow Your Business through</h3>
+                        <div class="digital-marketing">Digital Marketing</div>
+                        <div class="growth-1"></div>
+                    </div>
+                   
+
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Hero Area -->
+
+    <!-- Start Who Are We -->
+    <section id="about_us" class="features section">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="page-02">
+                        <div class="about-icon"></div>
+                        <div class="who-are-we" data-sider-select-id="ff19ea8d-2b2f-44b1-a1f8-0283a2cd39c7">Who Are We?</div>
+                        <span class="who_are_you_content">
+                          We are dedicated to driving your business forward in the digital era. Our comprehensive digital marketing services helps you to elevate your brand, expand your reach and maximize your online presence. Whether you’re a startup looking to establish your identity or an established business aiming to scale, we are here to help you achieve your goals.
+                        </span>
+                      </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Who Are We -->
+
+
+    <!-- Start Services Area -->
+    <section id="services" class="pricing-table section">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="section-title">
+                        <div class="services-1" data-sider-select-id="1beb77a0-011c-4d43-9d59-140deca687f9">Services</div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-4 col-md-6 col-12" style="padding-bottom: 15px;">
+                    <!-- Single Table -->
+                    <div class="container-9">
+                        <div class="creative-1"></div>
+                        <span class="social-media-marketing">Social Media<br>Marketing</span>
+                      </div>
+                    <!-- End Single Table-->
+                </div>
+                <div class="col-lg-4 col-md-6 col-12" style="padding-bottom: 15px;">
+                    <!-- Single Table -->
+                    <div class="container-3">
+                        <div class="sway-1"></div>
+                        <span class="influencer-marketing">Influencer<br>Marketing</span>
+                      </div>
+                    <!-- End Single Table-->
+                </div>
+                <div class="col-lg-4 col-md-6 col-12" style="padding-bottom: 15px;">
+                    <!-- Single Table -->
+                    <div class="container-8">
+                        <div class="image-1"></div>
+                        <span class="website-design">Website<br>Design</span>
+                      </div>
+                    <!-- End Single Table-->
+                </div>
+                
+            </div>
+        </div>
+    </section>
+    <!--/ End Services Area -->
+
+    <!--  Start Social Media Section -->
+    <section id="services" class="pricing-table section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-md-12 col-12">
+                    <div class="services-1" data-sider-select-id="1beb77a0-011c-4d43-9d59-140deca687f9">Social Media Marketing</div>
+                    <div class="col-12">
+                        <ul>
+                            <li class="text_div_content"> Accout / page profile setup </li>
+                            <li class="text_div_content"> Content creation </li>
+                            <li class="text_div_content">Post designs </li>
+                            <li class="text_div_content"> Reels / video creation </li>
+                            <li class="text_div_content"> Targeted Ad-campaigns </li>
+                            <li class="text_div_content"> Insight sharing </li>
+                            <li class="text_div_content"> Copyright monetization support </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-lg-6 col-md-12 col-12">
+                    <img src="assets/vectors/marketing_cuate_1_x2.svg" />
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Social Media Section -->
+
+    <!--  Start Influencer Marketing Section -->
+    <section class="pricing-table section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-md-12 col-12">
+                    <img src="assets/vectors/partnership_pana_1_x2.svg" />
+                </div>
+
+                <div class="col-lg-6 col-md-12 col-12">
+                    <div class="services-1" data-sider-select-id="1beb77a0-011c-4d43-9d59-140deca687f9">Influencer Marketing</div>
+                    <div class="col-12">
+                        <ul>
+                            <li class="text_div_content"> Finding influencers </li>
+                            <li class="text_div_content"> Negotiations </li>
+                            <li class="text_div_content"> Campaign setup </li>
+                            <li class="text_div_content"> Influencer monitoring </li>
+                            <li class="text_div_content"> Post management </li>
+                            <li class="text_div_content"> Reporting & analytics </li>
+                            <li class="text_div_content"> Collaboration management </li>
+                        </ul>
+                    </div>
+                </div>
+               
+            </div>
+        </div>
+    </section>
+    <!-- End Influencer Marketing Section -->
+
+     <!--  Start Website designing Section -->
+     <section class="pricing-table section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-md-12 col-12">
+                    <div class="services-1" data-sider-select-id="1beb77a0-011c-4d43-9d59-140deca687f9">Website designing</div>
+                    <div class="col-12">
+                        <ul>
+                            <li class="text_div_content"> Purchasing domain (.com, .in, .co, etc.) </li>
+                            <li class="text_div_content"> Creating design layout </li>
+                            <li class="text_div_content"> Paid web hosting </li>
+                            <li class="text_div_content"> Setting up Wordpress </li>
+                            <li class="text_div_content"> Adding site to wordpress </li>
+                            <li class="text_div_content"> Publishing website </li>
+                            <li class="text_div_content"> S.E.O. (Search Engine Optimization) </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-12 col-12">
+                    <img src="assets/vectors/microsites_pana_1_x2.svg" />
+                </div>
+               
+            </div>
+        </div>
+    </section>
+    <!-- End Website designing Section -->
+
+    <!-- Start Footer Area -->
+    <footer class="footer">
+        <!-- Start Footer Top -->
+        <div class="footer-top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <!-- Single Widget -->
+                        <div class="single-footer f-about footer_div">
+                            <div class="image-2"></div>
+                            <div class="who-are-we">Contact us</div>
+                            <div class="contact_us_content"><img class="icon" src="assets/vectors/phone_1_x2.svg">  <a href="tel:+91 9353335795"> +91 9353335795 </a>  </div>
+                            <div class="contact_us_content"><img class="icon" src="assets/vectors/mail_x2.svg"> <a href="mailto:digiobird@gmail.com">digiobird@gmail.com</a> </div>
+                            <div class="contact_us_content"> <img class="icon" src="assets/vectors/website_x2.svg"> <a href="https://digiobird.com" target="_blank"> digiobird.com </a> </div>
+                            <div class="contact_us_content"> <img class="icon" src="assets/vectors/container_x2.svg"> <a href="#"> Ground floor, Laxmi nivas, Near Dharmanath circle,<br>Shivabasava nagar, Belagavi 590010 </a></div>
+                            <!-- <p>Making the world a better place through constructing elegant hierarchies.</p> -->
+                            
+                            <ul class="social">
+                                <li><a href="https://www.facebook.com/profile.php?id=61557967753222&amp;mibextid=JRoKGi"><i class="lni lni-facebook-filled"></i></a></li>
+                                <li><a href="https://x.com/digiobird?t=JuwS1foXfeZCC-vZ0Ga9tg&amp;s=09"><i class="lni lni-twitter-original"></i></a></li>
+                                <li><a href="https://www.instagram.com/digiobird?igsh=MXJzYnlpNjNna202dQ=="><i class="lni lni-instagram"></i></a></li>
+                                <li><a href="https://www.linkedin.com/company/digiobird/"><i class="lni lni-linkedin-original"></i></a></li>
+                                <li><a href="javascript:void(0)"><i class="lni lni-youtube"></i></a></li>
+                                <li><a href="https://api.whatsapp.com/send?phone=9353335795&amp;text=Hello"><i class="lni lni-whatsapp"></i></a></li>
+                                <!-- <li><a href="javascript:void(0)"><i class="lni lni-pinterest"></i></a></li> -->
+                            </ul>
+
+                            <p class="copyright-text">©Digiobird 2024 - All Rights Reserved.
+                            </p>
+                        </div>
+                        <!-- End Single Widget -->
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+        <!--/ End Footer Top -->
+    </footer>
+    <!--/ End Footer Area -->
+
+    <!-- ========================= scroll-top ========================= -->
+    <a href="#" class="scroll-top">
+        <i class="lni lni-chevron-up"></i>
+    </a>
+
+    <!-- ========================= JS here ========================= -->
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/wow.min.js"></script>
+    <script src="assets/js/tiny-slider.js"></script>
+    <script src="assets/js/glightbox.min.js"></script>
+    <script src="assets/js/count-up.min.js"></script>
+    <script src="assets/js/main.js"></script>
+    <script type="text/javascript">
+
+        //====== counter up 
+        var cu = new counterUp({
+            start: 0,
+            duration: 2000,
+            intvalues: true,
+            interval: 100,
+            append: " ",
+        });
+        cu.start();
+    </script>
 </body>
 
-<script>
-  function redirectToContact() {
-  document.querySelector('#contact_us').scrollIntoView();
-}
-
-function redirectTohome() {
-  document.querySelector('#home').scrollIntoView();
-}
-
-function redirectToabout_us() {
-  document.querySelector('#about_us').scrollIntoView();
-}
-
-function redirectToservices() {
-  document.querySelector('#services').scrollIntoView();
-}
-</script>
 </html>
